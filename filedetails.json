@@ -1,48 +1,6 @@
 {
 "ovpn_file":[
   {"id":0,"file":"#{
-# "version": 1,
-# "user": "Carmine",
-# "organization": "FlyVPN",
-# "server": "FlyVPN",
-# "wg": false,
-# "user_id": "64bb8a2aa8a97adb3d0e6f32",
-# "organization_id": "64bb8a28a8a97adb3d0e6f24",
-# "server_id": "64bb9888a8a97adb3d0e7801",
-# "server_public_key": [
-#  "-----BEGIN RSA PUBLIC KEY-----",
-#  "MIICCgKCAgEAm/NXGa44umGtoqpOSAzVFXb4f890PR20vViNgsIFEV7VyZmm+WcB",
-#  "1CXbNQpgu4QwQAr3uqOCVyc6BC0ISmGvCQUMTUVwYczdA3jaAcVHmXxSKLDWWTPj",
-#  "/rAwluCUnaquMLLRAC66cJLdKzOY+8LxjLGaDpqHDuclRxc63CldhFcri2HzNi/N",
-#  "Myou0+Vnz9i0QJ2YiqF4WKqp5UuO9UTd6a7ME1644Xdtb7pOW3JvdBmlx6DNa6D6",
-#  "WjTOAK/JNgjPYJD6dsVbm2jHy/mVZbELvXKQhX8fiPg6aDXAGgE73lswfhfqYrxn",
-#  "70ljv//cvqSZq+egcSv1mcyM9PUivprsf1iROUSLgnag2aJMiTGjR8AtXzmTG6Ka",
-#  "DThn4aM/CHitoHHKG5kBC6HXY9aM+R9D7H7Q8IG8oNZBCGQBYQUQsW4FrDqAFhRp",
-#  "zqNy7xjZkGhusrFHGT24Me0F9FRmLBCMCGEzSbUTvlzbvKEH4ic4wpTV+a/acZ/c",
-#  "eXgSH/ABKVzA+ZGPNh/27b69bejbVNPPX8nDiaJjp3txKY3DbxR6VtQGysIsAnqp",
-#  "2Gzx7mkDNd4gEg+XpgtSUss9MuqqxQ5zEENXNCs5HcPRb/5h82wTKdK6oXRxBKud",
-#  "l2BoMQkg54nTQD6aCIXMGBoez7QkBWAJLYz2vHyztrrcHz0PXlCrjfkCAwEAAQ==",
-#  "-----END RSA PUBLIC KEY-----"
-# ],
-# "server_box_public_key": "hdt62AqfM+om8eF816KyBsbhy+CQJVnQu98b9FMO7WA=",
-# "sync_hosts": [
-#  "https://95.179.146.50"
-# ],
-# "sync_hash": "5fdc7a6c33723ae7231402411764af8a",
-# "dynamic_firewall": false,
-# "device_auth": false,
-# "sso_auth": false,
-# "password_mode": "pin",
-# "push_auth": false,
-# "push_auth_ttl": 2592000,
-# "disable_reconnect": false,
-# "token_ttl": 2592000,
-# "token": true,
-# "sync_token": "SFEVkhBTgbeXEeJwntMFclWsAGLcmjw4",
-# "sync_secret": "URvYZUPgWJpX2xMiLP0uqnKaKsdTh0BH"
-#}
-setenv UV_ID d0aebd9baa9e4f81abe3502b17a2787b
-setenv UV_NAME calm-plateau-9425
 client
 dev tun
 dev-type tun
