@@ -6,10 +6,16 @@
     "description":"Welcome to version 1 of FlyVPN",
     "size":"https://git.io/JeY69"
   }],
-  "blocked":[
-    {"id":5, "app":"com.facebook.client"},
+  "blocked":[ 
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.get.client"}
+    {"id":6, "app":"com.facebook.client"},
   ],
   "free":[
-    {"id":0, "file":0, "city":"Amsterdam","country":"Netherlands","image":"Netherlands","ip":"161.97.64.25","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Amsterdam","country":"Netherlands","image":"Netherlands","ip":"45.63.40.223","active":"true","signal":"a"}
   ]
 }
